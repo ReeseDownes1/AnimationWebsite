@@ -1,0 +1,68 @@
+.main {
+  background-size:
+fill;
+  display: flex;
+     padding:80px;
+      background-color:darksalmon;
+      animation-name: example;
+      animation-duration: 15s;
+      }
+      
+      @keyframe example {
+        from {background-color: darksalmon;}
+        to {background-color: lavenderblush;}
+        
+      }
+.main2 {
+  background-size:
+fill;
+  display: flex;
+     padding:80px;
+      background-color:greenyellow;
+      animation-name: example;
+      animation-duration: 5s;
+      }
+      
+      @keyframe example {
+        from {background-color: greenyellow;}
+        to {background-color: khaki;}
+        
+      }
+.main3 {
+  background-size:
+fill;
+  display: flex;
+     padding:80px;
+      background-color:teal;
+      animation-name: example;
+      animation-duration: 20s;
+      }
+      
+      @keyframe example {
+        from {background-color: teal;}
+        to {background-color: tomato;}
+        
+      }
+.main4 {
+  background-size:
+fill;
+  display: flex;
+     padding:80px;
+      background-color:palevioletred;
+      animation-name: example;
+      animation-duration: 10s;
+      }
+      
+      @keyframe example {
+        from {background-color: palevioletred;}
+        to {background-color: blanchedalmond;}
+        
+      }
+
+
+h1 {
+color: red;
+  font-size: 3em;}
+  
+  
+}
